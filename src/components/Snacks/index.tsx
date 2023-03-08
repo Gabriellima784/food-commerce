@@ -4,7 +4,6 @@ import { SkeletonSnack } from './SkeletonSnack'
 
 import { Container } from "./styles"
 
-
 interface SnacksProps {
     snacks: any[]
 }
