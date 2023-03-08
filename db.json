@@ -1,0 +1,157 @@
+{
+    "burgers": [
+        {
+          "id": 1,
+          "snack": "burger",
+          "name": "Mega",
+          "description": "O artesanal tamanho família recheado com três carnes suculentas, queijo e bacon.",
+          "price": 25.5,
+          "image": "https://i.imgur.com/upjIUnG.jpg"
+        },
+        {
+          "id": 2,
+          "snack": "burger",
+          "name": "Extra Bacon",
+          "description": "Criado para os amantes de bacon, possui em todas as suas camadas bacon bem assado e ainda queijo e carne.",
+          "price": 23.5,
+          "image": "https://i.imgur.com/B4J04AJ.jpg"
+        },
+        {
+          "id": 3,
+          "snack": "burger",
+          "name": "Tradicional",
+          "description": "O simples também é delicioso, principalmente se envolver nossa carne artesanal e queijo.",
+          "price": 12,
+          "image": "https://i.imgur.com/Jz506jB.jpg"
+        },
+        {
+          "id": 4,
+          "snack": "burger",
+          "name": "Big Carne",
+          "description": "Uma carne artesanal de primeira qualidade com 4cm de altura e uma salada completa com alface, cebola, tomate e outros.",
+          "price": 18.0,
+          "image": "https://i.imgur.com/bF8EdBb.jpg"
+        },
+        {
+          "id": 5,
+          "snack": "burger",
+          "name": "Carne dupla",
+          "description": "Já pensou em comer aquele sanduíche com carne dupla e saborosa, recheada com queijo, molho e salada? Então você pensou exatamente nesse hambúrguer.",
+          "price": 20,
+          "image": "https://i.imgur.com/fdEY2kY.jpg"
+        }
+      ],
+
+    "pizzas": [
+        {
+            "id": 1,
+            "snack": "pizzas",
+            "name": "Pizza de calabresa",
+            "description": "Para os mais tradicionais.",
+            "price": 45.5,
+            "image": "https://i.imgur.com/Qtrvqb0.jpeg"
+        }, 
+        {
+            "id": 2,
+            "snack": "pizzas",
+            "name": "Portuguesa",
+            "description": "Essa é para os mais indeciso.",
+            "price": 45.5,
+            "image": "https://i.imgur.com/CYWMc3L.jpg"
+        },
+
+        {
+            "id": 3,
+            "snack": "pizzas",
+            "name": "Frango com catupiry",
+            "description": "Para os amantes de frango.",
+            "price": 50.5,
+            "image": "https://i.imgur.com/zD7vDjD.jpg"
+        },
+
+        {
+            "id": 4,
+            "snack": "pizzas",
+            "name": "Chocolate com nutella",
+            "description": "E que tal uma mais doce para sobremesa?",
+            "price": 50.5,
+            "image": "https://i.imgur.com/7wYPRie.jpg"
+        }
+    ],
+
+    "bebidas": [
+        {
+            "id": 1,
+            "snack": "drink",
+            "name": "Coca-Cola 1.5L",
+            "description": "A tradicional Coca-Cola.",
+            "price": 10.5,
+            "image": "https://i.imgur.com/ThuFr3r.jpg"
+        }, 
+
+        {
+            "id": 2,
+            "snack": "drink",
+            "name": "Guaraná Antartica 2L",
+            "description": "O irresistivel guaraná.",
+            "price": 12.5,
+            "image": "https://i.imgur.com/CeGf9dW.jpg"
+        },
+
+        {
+            "id": 3,
+            "snack": "drink",
+            "name": "Suco de maracujá",
+            "description": "Pra acalmar sua noite.",
+            "price": 7.5,
+            "image": "https://i.imgur.com/RCVJrEs.jpg"
+        },
+
+        {
+            "id": 4,
+            "snack": "drink",
+            "name": "Monster",
+            "description": "Pra quem precisa se manter acordado pra programar.",
+            "price": 13.5,
+            "image": "https://i.imgur.com/DOka4K4.jpg"
+        }
+    ],
+    
+    "sorvetes": [
+        {
+            "id": 1,
+            "snack": "ice-cream",
+            "name": "Chocolate",
+            "description": "Uma casquinha para animar deixar sua noite mais fria.",
+            "price": 5.5,
+            "image": "https://i.imgur.com/SWcw425.jpeg"
+        }, 
+        {
+            "id": 2,
+            "snack": "ice-cream",
+            "name": "Baunilha com chocolate",
+            "description": "O clássico baunilha com chocolate.",
+            "price": 6.5,
+            "image": "https://i.imgur.com/depGuNE.jpg"
+        },
+
+        {
+            "id": 3,
+            "snack": "ice-cream",
+            "name": "Morango",
+            "description": "Para os fans de fruta.",
+            "price": 5.5,
+            " image": "https://i.imgur.com/FXb4RtT.jpg"
+        },
+
+        {
+            "id": 4,
+            "snack": "ice-cream",
+            "name": "Baunilha",
+            "description": "Para os que não querem se aventurar em muitos sabores.",
+            "price": 3.5,
+            "image": "https://i.imgur.com/vpfCVX8.jpg"
+        }
+    ]
+
+}
