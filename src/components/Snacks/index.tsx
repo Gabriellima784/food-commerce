@@ -5,7 +5,7 @@ import { SkeletonSnack } from './SkeletonSnack'
 import { Container } from "./styles"
 
 interface SnacksProps {
-    snacks: any[]
+    snacks: any [];
 }
 
 export function Snacks ({ snacks }: SnacksProps) {
